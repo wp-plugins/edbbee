@@ -27,7 +27,7 @@ WordPress removes certain html tags because of security reasons, among them `<if
 == Other Notes ==
 = edbbee params: =
 * **server** - name of dbBee server where your dbBee project is located : `[edbbee server="thyme.dbbee.com"]`;
-* **projectkey** - unique key of your dbBee project: `[edbbee projectkey="29ffffffec482318be67844ae10000008b045c5eb4efe9083ded4e927042fd5b25144d26292e392d5d363130748206aa"]`. This parameter is required. There is no default value!;
+* **projectkey** - unique key of your dbBee project: `[edbbee projectkey="29ffffffec482318be67844ae1000000...key truncated"]`. This parameter is required. There is no default value!;
 = Warning =
 Usage of edbbee is limited to one instance per page
 == Screenshots ==
@@ -42,4 +42,4 @@ Usage of edbbee is limited to one instance per page
 == Installation ==
 
 1. install and activate the plugin on the Plugins page
-2. add shortcode `[edbbee server="thyme.dbbee.com" projectkey="29ffffffec482318be67844ae10000008b045c5eb4efe9083ded4e927042fd5b25144d26292e392d5d363130748206aa"]` to page or post content
+2. add shortcode `[edbbee server="thyme.dbbee.com" projectkey="29ffffffec482318be67844ae1000000...key truncated"]` to page or post content
